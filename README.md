@@ -11,7 +11,7 @@
 
 過去的兩年，專注於前端開發領域，積極學習和應用最新的網頁技術和框架。 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=blackramble&theme=ayu-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=blackramble)](https://git.io/streak-stats)
 
  ### Code with：
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
